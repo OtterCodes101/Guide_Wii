@@ -2,16 +2,16 @@
 main:
   - 
     title: Home
-    url: /Guide_Wii
+    url: Guide_Wii
   - 
     title: Get Started
-    url: /Guide_Wii/get-started
+    url: Guide_Wii/get-started
   - 
     title: Site Navigation
-    url: /Guide_Wii/site-navigation
+    url: Guide_Wii/site-navigation
   - 
     title: FAQ
-    url: /Guide_Wii/faq
+    url: Guide_Wii/faq
 top:
   - 
     title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
@@ -24,13 +24,13 @@ footer:
     url: https://github.com/hacks-guide/Guide_Wii
   - 
     title: Site Navigation
-    url: /Guide_Wii/site-navigation
+    url: Guide_Wii/site-navigation
   - 
     title: Privacy Policy
-    url: /Guide_Wii/privacy-policy
+    url: Guide_Wii/privacy-policy
   - 
     title: Donations
-    url: /Guide_Wii/donations
+    url: Guide_Wii/donations
 sidebar_title:
   - 
     title: Overall Progress
